@@ -1,5 +1,5 @@
-Diwali Cake 
- Take a bowl put 
+Diwali Cake{
+Take a bowl put 
 1cup milk ,
 add few drops of essence and,
  6tbsp of oil .
@@ -22,6 +22,7 @@ Preheat the oven for 180 degree celeius for 10 min .
 Then bake the cake for 30-45 min 
 
 Then our delicious CAKE is ready . ENJOY .
+}
 
 
 
